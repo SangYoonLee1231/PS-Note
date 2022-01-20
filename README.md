@@ -1,4 +1,4 @@
-# 📔 PS_Note
+# 📔 PS-Note
 
 - 코딩 테스트 대비를 위해 진행한 PS (Problem Solving) 풀이를 기록한다.
 
