@@ -8,6 +8,10 @@
 
 ---
 
+## PS 풀이 팁
+
+- <a href=""></a>
+
 ## Baekjoon Online Judge
 
 ### 브론즈
