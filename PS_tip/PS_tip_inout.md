@@ -40,7 +40,7 @@ input = stdin.readline
 print = stdout.write
 ```
 
-- 코드 맨 위에 다음을 작성하고 평소처럼 print(), input() 함수를 쓰면 된다.
+- 코드 맨 위에 다음을 작성하고 평소처럼 <code>print()</code>, <code>input()</code> 함수를 쓰면 된다.
 
 <br/>
 
