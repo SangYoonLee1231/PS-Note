@@ -4,7 +4,7 @@
 
 ## 나누어 입력받기
 
-- 다음 입력값이 주어졌을 때 각각의 변수에 값을 저장하는 방법
+- 2개의 입력값이 다음처럼 주어졌을 때 각각의 변수에 값을 저장하는 방법
 
 ```
 1 2
@@ -27,5 +27,17 @@ c = list(map(int, input(),split()))
   (백준 1927번, 백준 10845번)
 
 ```python
-from sys import stdin, stdout
+import sys
+N = int(sys.stdin.readline())
+sys.stdout.write(N)
 ```
+
+- 그러나 매번 입출력마다 저렇게 쓰는 것은 시간적인 측면에서 손해이므로..
+
+```python
+from sys import stdin, stdout
+input = stdin.readline
+print = stdout.write
+```
+
+- 코드 맨 위에 다음을 작성하고 평소처럼 print(), input() 함수를 쓰면 된다.
