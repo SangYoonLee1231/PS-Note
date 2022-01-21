@@ -10,7 +10,7 @@
 
 ## PS 풀이 팁
 
-- <a href=""></a>
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/PS_tip/PS_tip_inout.md">PS 팁1 : 입출력</a>
 
 ## Baekjoon Online Judge
 
