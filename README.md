@@ -8,10 +8,6 @@
 
 ---
 
-## PS 기초 학습 (Python)
-
-- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/PS_basic.md/input_output.md">입출력</a>
-
 ## PS 풀이 팁 (Python)
 
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/PS_tip/PS_tip_inout.md">파이썬 PS 팁1 : 입출력</a>
