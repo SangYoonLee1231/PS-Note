@@ -10,7 +10,7 @@
 
 ## PS 기초 학습 (Python)
 
-- 입출력
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/PS_basic.md/input_output.md">입출력</a>
 
 ## PS 풀이 팁 (Python)
 
