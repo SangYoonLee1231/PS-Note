@@ -1,6 +1,6 @@
 # PS 커리큘럼
 
->> <a href="https://www.codetree.ai/missions">Code Tree</a>
+> 참고 자료 : <a href="https://www.codetree.ai/missions">Code Tree</a>
 
 ## Lv 1. 프로그래밍 기초
 
