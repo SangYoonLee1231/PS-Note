@@ -10,7 +10,7 @@
 
 ## PS 풀이 팁 (Python)
 
-- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/ps_curriculum.md">PS 커리큘럼 정리</a>
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/ps_curriculum.md">✔� PS 커리큘럼 정리</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/PS_tip/PS_tip_inout.md">파이썬 PS 팁1 : 입출력</a>
 
 ## Baekjoon Online Judge
