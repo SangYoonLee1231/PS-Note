@@ -15,8 +15,10 @@
 
 ## Baekjoon Online Judge
 
-### 브론즈
+### 🥉 브론즈
 
-### 실버
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/BJ_code/Bronze/bj_1152.md">1152번 (브론즈 3)</a>
 
-### 골드
+### 🥈 실버
+
+### 🥇 골드
