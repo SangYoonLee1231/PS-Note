@@ -1,15 +1,15 @@
-n = int(input())
+a, b = tuple(map(int, input().split()))
 
-lst_a = list(map(int, input().split()))
-lst_b = list(map(int, input().split()))
+cnt = 0; ans = 0
 
-lst_a.sort()
+def count():
+    for i in range(1, 1001):
+        for j in range(1, i+1):
+            cnt += 1
+            if a <= cnt and cnt <= b:
+                ans += i
+            if cnt > b:
+                return
 
-ans = 0
-for elem in lst_a:
-    max_in_b = max(lst_b)
-    lst_b.pop(lst_b.index(max_in_b))
-
-    ans += elem * max_in_b
-
-print(ans)
+count()
+print(ans)        
