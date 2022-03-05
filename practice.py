@@ -3,6 +3,8 @@ a, b = tuple(map(int, input().split()))
 cnt = 0; ans = 0
 
 def count():
+    global cnt, ans
+    
     for i in range(1, 1001):
         for j in range(1, i+1):
             cnt += 1
@@ -12,4 +14,4 @@ def count():
                 return
 
 count()
-print(ans)        
+print(ans)
