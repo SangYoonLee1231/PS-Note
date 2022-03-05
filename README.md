@@ -21,4 +21,6 @@
 
 ### 🥈 실버
 
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/BJ_code/Bronze/bj_1026.md">백준 1026번 : 보물 (실버 4)</a>
+
 ### 🥇 골드
