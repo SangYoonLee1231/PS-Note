@@ -15,6 +15,8 @@
 
 ## Baekjoon Online Judge
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=prestro1231)](https://solved.ac/prestro1231)
+
 ### 🥉 브론즈
 
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/BJ_code/Bronze/bj_1152.md">백준 1152번 : 단어의 개수 (브론즈 2)</a>
