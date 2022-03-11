@@ -27,5 +27,7 @@
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/BJ_code/Silver/bj_1026.md">백준 1026번 : 보물 (실버 4)</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/BJ_code/Silver/bj_1292.md">백준 1292번 : 쉽게 푸는 문제 (실버 5)</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/BJ_code/Silver/bj_1037.md">백준 1037번 : 약수 (실버 5)</a>
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/BJ_code/Silver/bj_1929.md">백준 1929번 : 소수 구하기 (실버 3)</a>
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/BJ_code/Silver/bj_1063.md">백준 1063번 : 킹 (실버 4)</a>
 
 ### 🥇 골드
