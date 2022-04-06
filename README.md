@@ -2,6 +2,8 @@
 
 # 📔 PS-Note
 
+<img src="https://img.shields.io/badge/author-SangYoonLee-lightgrey"></a>
+
 </div>
 
 <br/>
