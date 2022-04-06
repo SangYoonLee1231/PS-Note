@@ -1,4 +1,10 @@
+<div align=center>
+
 # 📔 PS-Note
+
+</div>
+
+<br/>
 
 - 코딩 테스트 대비를 위해 진행한 PS (Problem Solving) 풀이를 기록한다.
 
@@ -37,7 +43,6 @@
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/BJ_code/Silver/bj_1063.md">백준 1063번 : 킹 (실버 4)</a>
 
 ### 🥇 골드
-
 
 <br/>
 
