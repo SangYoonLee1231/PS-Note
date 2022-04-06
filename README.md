@@ -8,7 +8,7 @@
 
 <br/>
 
-- 코딩 테스트 대비를 위해 진행한 PS (Problem Solving) 풀이를 기록한다.
+- 코딩 테스트 대비를 위해 진행한 <strong>PS (Problem Solving) 풀이</strong>를 기록한다.
 
 - 단순히 문제와 제출 코드만 기록하지 말고, 풀이 과정과 느낀 점을 함께 기록한다.
 
