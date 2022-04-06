@@ -20,6 +20,8 @@
 
 ---
 
+<br/>
+
 ## PS 풀이 팁 (Python)
 
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/ps_curriculum.md">✔ PS 커리큘럼 정리</a>
