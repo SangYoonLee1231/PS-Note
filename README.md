@@ -54,6 +54,8 @@
 
 ### 📗 LEVEL 1
 
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL 1/harshad.md">하샤드 수</a>
+
 ### 📒 LEVEL 2
 
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL 2/skill_tree.md">스킬트리</a>
