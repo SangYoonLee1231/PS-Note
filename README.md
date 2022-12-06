@@ -14,7 +14,7 @@
 
 - 문제 풀이 완료 후, 다른 풀이 방법을 더 고민해보고, 이 또한 기록으로 남긴다.
 
-- 주 사용 언어 : <strong>Python3</strong>
+- <strong>주 사용 언어</strong> : <code>Python3</code>, <code>JavaScript ES6</code>
 
 - 문제 정렬 순서 : 해결한 순으로
 
@@ -22,10 +22,11 @@
 
 <br/>
 
-## PS 풀이 팁 (Python)
+## PS 팁
 
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/ps_curriculum.md">✔ PS 커리큘럼 정리</a>
-- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/PS_tip/PS_tip_inout.md">파이썬 PS 팁1 : 입출력</a>
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/PS_tip/PS_tip_inout.md">파이썬 PS 입출력 팁</a>
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/PS_tip/PS_tip_javascript_inout.md">자바스크립트 PS 입출력 팁</a>
 
 <br/>
 
