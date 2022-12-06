@@ -32,7 +32,12 @@
 
 ## Baekjoon Online Judge
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=prestro1231)](https://solved.ac/prestro1231)
+<div align="center">
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=prestro1231)](https://solved.ac/prestro1231)
+
+</div>
 
 ### 🥉 브론즈
 
