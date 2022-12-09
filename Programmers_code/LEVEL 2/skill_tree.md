@@ -1,6 +1,6 @@
 ## <a href="https://programmers.co.kr/learn/courses/30/lessons/49993">스킬트리</a>
 
-### 풀이 1
+### 풀이 1 (Python)
 
 - 풀이한 날짜 : 2022-04-06
 
@@ -63,7 +63,7 @@ def solution(skill, skill_trees):
 
 <br/><br/>
 
-### 풀이 2 (모범 답안 참고)
+### 풀이 2 (Python) (모범 답안 참고)
 
 <br/>
 
