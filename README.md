@@ -43,6 +43,7 @@
 
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/BJ_code/Bronze/bj_1152.md">백준 1152번 : 단어의 개수 (브론즈 2)</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/BJ_code/Bronze/bj_1085.md">백준 1085번 : 직사각형에서 탈출 (브론즈 3)</a>
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/BJ_code/Bronze/bj_2738.md">백준 2738번 : 행렬 덧셈 (브론즈 5)</a>
 
 ### 🥈 실버
 
