@@ -23,7 +23,7 @@
   const fs = require("fs"); // fs 모듈 사용
   let input = fs.readFileSync("/dev/stdin", "utf8").toString(); // raw Buffer -> string
   // let input = fs.readFileSync("./input.txt").toString(); // VS Code에 풀 땐 txt 파일로 입력값 받음
-  input = input.split("\n"); //
+  input = input.split("\n");
   const inputTestCase = [];
 
   const inputCount = input[0];
