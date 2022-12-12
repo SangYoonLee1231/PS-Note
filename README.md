@@ -62,8 +62,9 @@
 
 ### 📗 LEVEL 1
 
-- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL 1/harshad.md">하샤드 수</a>
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/harshad.md">하샤드 수</a>
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/average.md">평균 구하기</a>
 
 ### 📒 LEVEL 2
 
-- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL 2/skill_tree.md">스킬트리</a>
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_2/skill_tree.md">스킬트리</a>
