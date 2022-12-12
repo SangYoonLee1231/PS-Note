@@ -63,3 +63,11 @@
   ```
 
 <br/>
+
+- 입력 시 문제에 따라 앞 뒤 공백을 제거해주어야 하는 <code>trim</code> 메소드를 input값에 붙여주어야 하는 경우가 있다.
+
+  ```js
+  const fs = require("fs");
+
+  let input = fs.readFileSync("/dev/stdin").toString().trim();
+  ```

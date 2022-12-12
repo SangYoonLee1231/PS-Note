@@ -1,49 +1,25 @@
-// 입력받기
 const fs = require("fs");
-let input = fs.readFileSync("/dev/stdin", "utf8");
-// let input = fs.readFileSync("./input.txt").toString();
-input = input.split("\n");
-const [n, m] = input[0].split(" ");
+// const input = fs.readFileSync("./input.txt", "utf8");
+const input = fs.readFileSync("dev/stdin", "utf8");
 
-// 입력값 정제
-let newMatrixA = [];
-let newMatrixB = [];
+let inputTestCase = input.split(" ");
+inputTestCase = inputTestCase.map((item) => parseInt(item));
 
-for (let i = 1; i < input.length; i++) {
-  let newArr = input[i].split(" ");
+function solution(inputTestCase) {
+  const [first, second, third] = inputTestCase;
+  let prize = 0;
 
-  newArr = newArr.map((item) => Number(item));
-
-  if (i <= n) {
-    newMatrixA.push(newArr);
+  if (first === second && second === third) {
+    prize = 10000 + first * 1000;
+  } else if (first === second || first === third) {
+    prize = 1000 + first * 100;
+  } else if (second === third) {
+    prize = 1000 + second * 100;
   } else {
-    newMatrixB.push(newArr);
-  }
-}
-
-// 풀이
-function solution(n, m, newMatrixA, newMatrixB) {
-  const answerMatrix = [];
-
-  for (let i = 0; i < n; i++) {
-    answerMatrix.push([]);
-    for (let j = 0; j < m; j++) {
-      answerMatrix[i].push(newMatrixA[i][j] + newMatrixB[i][j]);
-    }
+    prize = Math.max(...inputTestCase) * 100;
   }
 
-  return answerMatrix;
+  console.log(prize);
 }
 
-// 출력
-let answerStr = "";
-let answerMatrix = solution(n, m, newMatrixA, newMatrixB);
-
-for (let i = 0; i < n; i++) {
-  for (let j = 0; j < m; j++) {
-    answerStr += `${answerMatrix[i][j]} `;
-  }
-  answerStr += `\n`;
-}
-
-console.log(answerStr);
+solution(inputTestCase);
