@@ -1,6 +1,16 @@
-const fs = require("fs");
-const input = fs.readFileSync("./input.txt", "utf8").toString();
-// const input = fs.readFileSync("/dev/stdin", "utf8").toString();
+// const fs = require("fs");
+// const input = fs.readFileSync("./input.txt", "utf8").toString();
+// // const input = fs.readFileSync("/dev/stdin", "utf8").toString();
+
+const input = `
+6
+...X..
+XXXXXX
+XXXXXX
+XXXXXX
+XXXXXX
+XXXXXX
+`;
 
 const inputTestCase = input.split("\n");
 const n = Number(inputTestCase[0]);
@@ -44,7 +54,3 @@ function countAvailableSeat(n, room, dir) {
 solution(n, room);
 
 console.log("hello");
-
-console.log("Hello?");
-
-console.log("hello?");

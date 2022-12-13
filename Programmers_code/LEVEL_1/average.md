@@ -7,6 +7,7 @@
 <br/>
 
 ```js
+// 풀이 1
 function solution(arr) {
   let answer = 0;
   let sumOfNums = 0;
@@ -22,6 +23,7 @@ function solution(arr) {
 ```
 
 ```js
+// 풀이 2
 function solution(arr) {
   return (
     arr.reduce((acc, cur, idx) => {
