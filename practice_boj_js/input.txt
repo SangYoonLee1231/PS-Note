@@ -1,3 +1,7 @@
-2
-.X
-..
+6
+...X..
+XXXXXX
+XXXXXX
+XXXXXX
+XXXXXX
+XXXXXX

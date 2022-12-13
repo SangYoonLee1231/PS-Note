@@ -46,6 +46,7 @@
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/BJ_code/Bronze/bj_2738.md">백준 2738번 : 행렬 덧셈 (브론즈 5)</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/BJ_code/Bronze/bj_2480.md">백준 2480번 : 주사위 세개 (브론즈 4)</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/BJ_code/Bronze/bj_25304.md">백준 25304번 : 영수증 (브론즈 5)</a>
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/BJ_code/Bronze/bj_1652.md">백준 1652번 : 누울 자리를 찾아라 (브론즈 1)</a>
 
 ### 🥈 실버
 
