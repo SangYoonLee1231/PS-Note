@@ -68,6 +68,7 @@
 
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/harshad.md">하샤드 수</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/average.md">평균 구하기</a>
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/divisor.md">약수의 합</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/number_reverse.md">자연수 뒤집어 배열로 만들기</a>
 
 ### 📒 LEVEL 2
