@@ -29,6 +29,8 @@ def solution(skill, skill_trees):
     return answer
 ```
 
+<br/>
+
 #### 풀이 로직
 
 - skill_trees의 각 skill_tree에 주어진 skill의 스킬(요소)들이 있을 경우, 이들이 skill의 나열 순서를 만족하는지 확인한다. (<code>check</code> 함수로 구현)

@@ -75,3 +75,5 @@
 
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_2/skill_tree.md">스킬트리</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_2/next_big_number.md">다음 큰 숫자</a>
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_2/max_and_min.md">최댓값과 최솟값</a>
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_2/jaden_case.md">JadenCase 문자열 만들기</a>
