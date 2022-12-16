@@ -29,6 +29,8 @@
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/ps_curriculum.md">✔ PS 커리큘럼 정리</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/PS_tip/PS_tip_inout.md">파이썬 PS 입출력 팁</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/PS_tip/PS_tip_javascript_inout.md">자바스크립트 PS 입출력 팁</a>
+- <a href="https://github.com/SangYoonLee1231/TIL/blob/main/JavaScript/javascript_array_function.md">자바스크립트 - 배열 관련 메소드 정리 </a>
+- <a href="https://github.com/SangYoonLee1231/TIL/blob/main/JavaScript/javascript_method_list.md">자바스크립트 - 내장 메소드 정리</a>
 
 <br/>
 
