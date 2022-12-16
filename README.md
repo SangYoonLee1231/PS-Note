@@ -72,6 +72,9 @@
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/average.md">평균 구하기</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/divisor.md">약수의 합</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/number_reverse.md">자연수 뒤집어 배열로 만들기</a>
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/sqrt.md">정수 제곱근 판별</a>
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/how_many_py.md">문자열 내 p와 y의 개수</a>
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/descending_order.md">정수 내림차순으로 배치하기</a>
 
 ### 📒 LEVEL 2
 
