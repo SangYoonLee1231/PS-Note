@@ -34,9 +34,9 @@
 
 <br/>
 
-## Baekjoon Online Judge
-
 <div align="center">
+
+## Baekjoon Online Judge
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=prestro1231)](https://solved.ac/prestro1231)
@@ -64,7 +64,11 @@
 
 <br/>
 
+<div align=center>
+
 ## 프로그래머스
+
+</div>
 
 ### 📓 LEVEL 0
 
