@@ -82,6 +82,9 @@
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/number_reverse.md">자연수 뒤집어 배열로 만들기</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/sqrt.md">정수 제곱근 판별</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/how_many_py.md">문자열 내 p와 y의 개수</a>
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/collatz.md">콜라츠 추측</a>
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/erase_minimum.md">제일 작은 수 제거하기</a>
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/hall_of_fame_1.md">명예의 전당 (1)</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/descending_order.md">정수 내림차순으로 배치하기</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/ponketmon.md">폰켓몬</a>
 
