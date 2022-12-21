@@ -74,7 +74,7 @@
 
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_0/babbling.md">옹앓이 (1)</a>
 
-### 📗 LEVEL 1
+### 📘 LEVEL 1
 
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/harshad.md">하샤드 수</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/average.md">평균 구하기</a>
@@ -85,7 +85,7 @@
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/descending_order.md">정수 내림차순으로 배치하기</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/ponketmon.md">폰켓몬</a>
 
-### 📒 LEVEL 2
+### 📗 LEVEL 2
 
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_2/skill_tree.md">스킬트리</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_2/next_big_number.md">다음 큰 숫자</a>
