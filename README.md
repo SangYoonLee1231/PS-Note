@@ -88,6 +88,7 @@
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/descending_order.md">정수 내림차순으로 배치하기</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/ponketmon.md">폰켓몬</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/divisor_count.md">약수의 개수와 덧셈</a>
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/handle_str.md">문자열 다루기 기본</a>
 
 ### 📗 LEVEL 2
 
