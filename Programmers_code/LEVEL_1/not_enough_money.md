@@ -31,4 +31,4 @@ function solution(price, money, count) {
 
 - JavaScript에선 <code>-1</code>과 같은 음수도 <code>truthy</code>한 값으로 평가된다는 걸 간과해서 테스트케이스 하나를 통과시키지 못했다.
 
-  - 숫자형 값 중 0만 falsey한 값으로 평가, 나머지는 truthy한 값으로 평가
+  - 숫자형 값 중 0만 <code>falsy</code>한 값으로 평가, 나머지는 <code>truthy</code>한 값으로 평가
