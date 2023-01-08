@@ -89,6 +89,7 @@
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/ponketmon.md">폰켓몬</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/divisor_count.md">약수의 개수와 덧셈</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/handle_str.md">문자열 다루기 기본</a>
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_1/divide_string.md">문자열 나누기</a>
 
 ### 📗 LEVEL 2
 
@@ -97,3 +98,4 @@
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_2/max_and_min.md">최댓값과 최솟값</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_2/jaden_case.md">JadenCase 문자열 만들기</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_2/make_minimum.md">최솟값 만들기</a>
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/Programmers_code/LEVEL_2/make_minimum.md">삼각 달팽이</a>
