@@ -18,7 +18,6 @@ function solution(n) {
 
   return answer;
 }
-}
 ```
 
 ```js
