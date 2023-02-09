@@ -62,6 +62,8 @@
 
 ### 🥇 골드
 
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/BJ_code/Gold/bj_7576.md">백준 7576번 : 토마토 (골드 5)</a>
+
 <br/>
 
 <div align=center>
