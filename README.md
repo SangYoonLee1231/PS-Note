@@ -59,6 +59,7 @@
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/BJ_code/Silver/bj_1037.md">백준 1037번 : 약수 (실버 5)</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/BJ_code/Silver/bj_1929.md">백준 1929번 : 소수 구하기 (실버 3)</a>
 - <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/BJ_code/Silver/bj_1063.md">백준 1063번 : 킹 (실버 4)</a>
+- <a href="https://github.com/SangYoonLee1231/PS-Note/blob/main/BJ_code/Silver/bj_15650.md">백준 15650번 : N과 M (실버 2)</a>
 
 ### 🥇 골드
 
