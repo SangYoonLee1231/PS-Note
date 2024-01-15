@@ -9,8 +9,6 @@ prime_sum = 0
 def check_prime_num(num):
     if num == 1:
         return False
-    if num == 2:
-        return True
 
     for i in range(2, int(math.sqrt(num)) + 1):
         if num % i == 0:
