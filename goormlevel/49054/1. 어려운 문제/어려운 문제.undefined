@@ -1,0 +1,32 @@
+n = int(input())
+
+
+def calc_fact(n):
+	if n == 0: return 1
+
+	num = 1
+
+	for i in range(1, n + 1):
+		num *= i
+	
+	return num
+
+
+def change_a_to_b(a):
+	b = 0
+	a = str(a)
+	
+	for elem in a:
+		b += int(elem)
+	
+	return b
+	
+
+a = calc_fact(n)
+b = a
+
+while b >= 10:
+	temp = change_a_to_b(b)
+	b = temp
+
+print(b)
