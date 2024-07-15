@@ -10,5 +10,5 @@ function solution(n) {
         return dp[currN] = (func(currN - 1) + func(currN - 2)) % 1234567;
     }
     
-    return func(n) % 1234567;
+    return func(n);
 }
