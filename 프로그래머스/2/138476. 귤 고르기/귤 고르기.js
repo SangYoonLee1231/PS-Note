@@ -3,11 +3,10 @@ function solution(k, tangerine) {
     const tangSizeCount = [];
     
     tangerine.forEach((elem) => {
-        tangInfo.set(elem, tangInfo.get(elem) ? tangInfo.get(elem) + 1 : 1)
+        tangInfo.set(elem, (tangInfo.get(elem) || 0) + 1);
     })
     
     const tangInfoArray = [...tangInfo];
-    console.log(tangInfoArray);
     
     tangInfoArray.forEach((elem) => tangSizeCount.push(elem[1]));
     tangSizeCount.sort((a, b) => b - a);
